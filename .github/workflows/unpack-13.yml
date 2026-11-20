@@ -13,8 +13,8 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Unzip 13@.zip at repo root
-        run: unzip -o "13@.zip"
+      - name: Unzip 13@a.zip at repo root
+        run: unzip -o "13@a.zip"
 
       - name: Verify extracted project files
         run: ls -la package.json src/App.tsx
