@@ -1,0 +1,1537 @@
+# JEE Main 2027 – Master Study Checklist
+
+## Master Progress Tracker
+
+| Section | Unit | Total Subtopics | Target Completion Date |
+|---|---|---|---|
+| Mathematics | M1: Sets, Relations and Functions | 9 | |
+| Mathematics | M2: Complex Numbers and Quadratic Equations | 9 | |
+| Mathematics | M3: Matrices and Determinants | 9 | |
+| Mathematics | M4: Permutations and Combinations | 4 | |
+| Mathematics | M5: Binomial Theorem and Its Simple Applications | 3 | |
+| Mathematics | M6: Sequence and Series | 4 | |
+| Mathematics | M7: Limit, Continuity and Differentiability | 14 | |
+| Mathematics | M8: Integral Calculus | 20 | |
+| Mathematics | M9: Differential Equations | 5 | |
+| Mathematics | M10: Co-ordinate Geometry | 22 | |
+| Mathematics | M11: Three Dimensional Geometry | 8 | |
+| Mathematics | M12: Vector Algebra | 5 | |
+| Mathematics | M13: Statistics and Probability | 7 | |
+| Mathematics | M14: Trigonometry | 3 | |
+| Physics | P1: Units and Measurements | 9 | |
+| Physics | P2: Kinematics | 12 | |
+| Physics | P3: Laws of Motion | 15 | |
+| Physics | P4: Work, Energy and Power | 10 | |
+| Physics | P5: Rotational Motion | 14 | |
+| Physics | P6: Gravitation | 9 | |
+| Physics | P7: Properties of Solids and Liquids | 27 | |
+| Physics | P8: Thermodynamics | 7 | |
+| Physics | P9: Kinetic Theory of Gases | 10 | |
+| Physics | P10: Oscillations and Waves | 17 | |
+| Physics | P11: Electrostatics | 27 | |
+| Physics | P12: Current Electricity | 16 | |
+| Physics | P13: Magnetic Effects of Current and Magnetism | 17 | |
+| Physics | P14: Electromagnetic Induction and Alternating Currents | 14 | |
+| Physics | P15: Electromagnetic Waves | 5 | |
+| Physics | P16: Optics | 21 | |
+| Physics | P17: Dual Nature of Matter and Radiation | 7 | |
+| Physics | P18: Atoms and Nuclei | 12 | |
+| Physics | P19: Electronic Devices | 9 | |
+| Physics | P20: Experimental Skills | 18 | |
+| Chemistry (Physical) | C1: Some Basic Concepts in Chemistry | 10 | |
+| Chemistry (Physical) | C2: Atomic Structure | 21 | |
+| Chemistry (Physical) | C3: Chemical Bonding and Molecular Structure | 22 | |
+| Chemistry (Physical) | C4: Chemical Thermodynamics | 12 | |
+| Chemistry (Physical) | C5: Solutions | 14 | |
+| Chemistry (Physical) | C6: Equilibrium | 21 | |
+| Chemistry (Physical) | C7: Redox Reactions and Electrochemistry | 18 | |
+| Chemistry (Physical) | C8: Chemical Kinetics | 13 | |
+| Chemistry (Inorganic) | C9: Classification of Elements and Periodicity in Properties | 8 | |
+| Chemistry (Inorganic) | C10: p-Block Elements | 4 | |
+| Chemistry (Inorganic) | C11: d- and f-Block Elements | 20 | |
+| Chemistry (Inorganic) | C12: Coordination Compounds | 14 | |
+| Chemistry (Organic) | C13: Purification and Characterisation of Organic Compounds | 17 | |
+| Chemistry (Organic) | C14: Some Basic Principles of Organic Chemistry | 22 | |
+| Chemistry (Organic) | C15: Hydrocarbons | 29 | |
+| Chemistry (Organic) | C16: Organic Compounds Containing Halogens | 8 | |
+| Chemistry (Organic) | C17: Organic Compounds Containing Oxygen | 24 | |
+| Chemistry (Organic) | C18: Organic Compounds Containing Nitrogen | 7 | |
+| Chemistry (Organic) | C19: Biomolecules | 16 | |
+| Chemistry (Practical) | C20: Principles Related to Practical Chemistry | 20 | |
+| Paper 2A/2B | A1: Aptitude Test – Unit 1 | 11 | |
+| Paper 2A/2B | A2: Aptitude Test – Unit 2 | 10 | |
+| Paper 2A | D1: Drawing Test | 5 | |
+| Paper 2B | PL1: Planning – General Awareness | 4 | |
+| Paper 2B | PL2: Planning – Social Sciences | 28 | |
+| Paper 2B | PL3: Planning – Thinking Skills | 5 | |
+
+**Paper 1 total (M + P + C): 718 subtopics | Paper 2A/2B extras (A + D + PL): 63 subtopics**
+
+---
+
+# PAPER 1 (B.E./B.Tech.) – MATHEMATICS
+*(Paper 2A and Paper 2B Part I Mathematics is identical to this section)*
+
+## M1: Sets, Relations and Functions
+
+**Sets**
+  - [ ] Sets and their representation
+  - [ ] Union, intersection and complement of sets and their algebraic properties
+  - [ ] Power set
+
+**Relations**
+  - [ ] Relations
+  - [ ] Types of relations
+  - [ ] Equivalence relations
+
+**Functions**
+  - [ ] Functions; one-one, into and onto functions
+  - [ ] The composition of functions
+  - [ ] Functions – types and properties (overall)
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M2: Complex Numbers and Quadratic Equations
+
+**Complex Numbers**
+  - [ ] Complex numbers as ordered pairs of reals
+  - [ ] Representation of complex numbers in the form a + ib
+  - [ ] Representation in a plane, Argand diagram
+  - [ ] Algebra of complex numbers
+  - [ ] Modulus and argument (or amplitude) of a complex number
+
+**Quadratic Equations**
+  - [ ] Quadratic equations in real and complex number systems and their solutions
+  - [ ] Relations between roots and coefficients
+  - [ ] Nature of roots
+  - [ ] The formation of quadratic equations with given roots
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M3: Matrices and Determinants
+
+**Matrices**
+  - [ ] Matrices
+  - [ ] Algebra of matrices
+  - [ ] Type of matrices
+
+**Determinants**
+  - [ ] Determinants and matrices of order two and three
+  - [ ] Evaluation of determinants
+  - [ ] Area of triangles using determinants
+
+**Inverse of a Matrix**
+  - [ ] Adjoint and inverse of a square matrix
+
+**Linear Equations**
+  - [ ] Test of consistency
+  - [ ] Solution of simultaneous linear equations in two or three variables using matrices
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M4: Permutations and Combinations
+
+**Counting**
+  - [ ] The fundamental principle of counting
+
+**Permutations and Combinations**
+  - [ ] Permutations and combinations
+  - [ ] Meaning of P(n, r) and C(n, r)
+  - [ ] Simple applications
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M5: Binomial Theorem and Its Simple Applications
+
+**Binomial Theorem**
+  - [ ] Binomial theorem for a positive integral index
+  - [ ] General term and middle term
+  - [ ] Simple applications
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M6: Sequence and Series
+
+**Progressions**
+  - [ ] Arithmetic progression
+  - [ ] Geometric progression
+
+**Means**
+  - [ ] Insertion of arithmetic and geometric means between two given numbers
+  - [ ] Relation between A.M and G.M
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M7: Limit, Continuity and Differentiability
+
+**Functions and Graphs**
+  - [ ] Real-valued functions
+  - [ ] Algebra of functions
+  - [ ] Polynomial, rational, trigonometric, logarithmic and exponential functions
+  - [ ] Inverse functions
+  - [ ] Graphs of simple functions
+
+**Limits, Continuity and Differentiability**
+  - [ ] Limits
+  - [ ] Continuity
+  - [ ] Differentiability
+
+**Differentiation**
+  - [ ] Differentiation of the sum, difference, product and quotient of two functions
+  - [ ] Differentiation of trigonometric, inverse trigonometric, logarithmic, exponential, composite and implicit functions
+  - [ ] Derivatives of order up to two
+
+**Applications of Derivatives**
+  - [ ] Rate of change of quantities
+  - [ ] Monotonic – increasing and decreasing functions
+  - [ ] Maxima and minima of functions of one variable
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M8: Integral Calculus
+
+**Indefinite Integrals**
+  - [ ] Integral as an anti-derivative
+  - [ ] Fundamental integrals involving algebraic, trigonometric, exponential and logarithmic functions
+  - [ ] Integration by substitution
+  - [ ] Integration by parts
+  - [ ] Integration by partial fractions
+  - [ ] Integration using trigonometric identities
+
+**Evaluation of Simple Integrals of the Type**
+  - [ ] ∫ dx/(x² + a²)
+  - [ ] ∫ dx/√(x² ± a²)
+  - [ ] ∫ dx/(a² − x²)
+  - [ ] ∫ dx/√(a² − x²)
+  - [ ] ∫ dx/(ax² + bx + c)
+  - [ ] ∫ dx/√(ax² + bx + c)
+  - [ ] ∫ (px + q)dx/(ax² + bx + c)
+  - [ ] ∫ (px + q)dx/√(ax² + bx + c)
+  - [ ] ∫ √(a² ± x²) dx
+  - [ ] ∫ √(x² − a²) dx
+
+**Definite Integrals**
+  - [ ] The fundamental theorem of calculus
+  - [ ] Properties of definite integrals
+  - [ ] Evaluation of definite integrals
+  - [ ] Determining areas of the regions bounded by simple curves in standard forms
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M9: Differential Equations
+
+**Basics**
+  - [ ] Ordinary differential equations
+  - [ ] Their order and degree
+
+**Solving Differential Equations**
+  - [ ] Solution by the method of separation of variables
+  - [ ] Solution of a homogeneous differential equation
+  - [ ] Solution of a linear differential equation of the type dy/dx + p(x)y = q(x)
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M10: Co-ordinate Geometry
+
+**Basics**
+  - [ ] Cartesian system of rectangular coordinates in a plane
+  - [ ] Distance formula
+  - [ ] Section formula
+  - [ ] Locus and its equation
+  - [ ] The slope of a line
+  - [ ] Parallel and perpendicular lines
+  - [ ] Intercepts of a line on the co-ordinate axis
+
+**Straight Line**
+  - [ ] Various forms of equations of a line
+  - [ ] Intersection of lines
+  - [ ] Angles between two lines
+  - [ ] Conditions for concurrence of three lines
+  - [ ] The distance of a point from a line
+  - [ ] Co-ordinates of the centroid, orthocentre and circumcentre of a triangle
+
+**Circle**
+  - [ ] A standard form of equations of a circle
+  - [ ] The general form of the equation of a circle
+  - [ ] Its radius and centre
+  - [ ] Equation of a circle when the endpoints of a diameter are given
+  - [ ] Points of intersection of a line and a circle with the centre at the origin
+
+**Conic Sections**
+  - [ ] Sections of conics
+  - [ ] Equation of a parabola in standard form
+  - [ ] Equation of an ellipse in standard form
+  - [ ] Equation of a hyperbola in standard form
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M11: Three Dimensional Geometry
+
+**Points in Space**
+  - [ ] Coordinates of a point in space
+  - [ ] The distance between two points
+  - [ ] Section formula
+
+**Lines in Space**
+  - [ ] Direction ratios and direction cosines
+  - [ ] The angle between two intersecting lines
+  - [ ] Equation of a line
+  - [ ] Skew lines
+  - [ ] The shortest distance between skew lines and its equation
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M12: Vector Algebra
+
+**Vectors**
+  - [ ] Vectors and scalars
+  - [ ] The addition of vectors
+  - [ ] Components of a vector in two dimensions and three-dimensional spaces
+  - [ ] Scalar product
+  - [ ] Vector product
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M13: Statistics and Probability
+
+**Statistics**
+  - [ ] Measures of dispersion
+  - [ ] Calculation of mean, median, mode of grouped and ungrouped data
+  - [ ] Calculation of standard deviation, variance and mean deviation for grouped and ungrouped data
+
+**Probability**
+  - [ ] Probability of an event
+  - [ ] Addition and multiplication theorems of probability
+  - [ ] Bayes' theorem
+  - [ ] Probability distribution of a random variable
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## M14: Trigonometry
+
+**Trigonometry**
+  - [ ] Trigonometrical identities
+  - [ ] Trigonometrical functions
+  - [ ] Inverse trigonometrical functions and their properties
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+---
+
+# PAPER 1 – PHYSICS
+
+## P1: Units and Measurements
+
+**Units**
+  - [ ] Units of measurements
+  - [ ] System of units
+  - [ ] SI units
+  - [ ] Fundamental and derived units
+
+**Measurement**
+  - [ ] Least count
+  - [ ] Significant figures
+  - [ ] Errors in measurements
+
+**Dimensions**
+  - [ ] Dimensions of physical quantities
+  - [ ] Dimensional analysis and its applications
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P2: Kinematics
+
+**Motion in a Straight Line**
+  - [ ] The frame of reference
+  - [ ] Motion in a straight line
+  - [ ] Speed and velocity
+  - [ ] Uniform and non-uniform motion
+  - [ ] Average speed and instantaneous velocity
+  - [ ] Uniformly accelerated motion
+  - [ ] Velocity-time and position-time graphs
+  - [ ] Relations for uniformly accelerated motion
+  - [ ] Relative velocity
+
+**Motion in a Plane**
+  - [ ] Motion in a plane
+  - [ ] Projectile motion
+  - [ ] Uniform circular motion
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P3: Laws of Motion
+
+**Newton's Laws**
+  - [ ] Force and inertia
+  - [ ] Newton's first law of motion
+  - [ ] Momentum
+  - [ ] Newton's second law of motion
+  - [ ] Impulse
+  - [ ] Newton's third law of motion
+
+**Conservation and Equilibrium**
+  - [ ] Law of conservation of linear momentum and its applications
+  - [ ] Equilibrium of concurrent forces
+
+**Friction**
+  - [ ] Static and kinetic friction
+  - [ ] Laws of friction
+  - [ ] Rolling friction
+
+**Circular Dynamics**
+  - [ ] Dynamics of uniform circular motion
+  - [ ] Centripetal force and its applications
+  - [ ] Vehicle on a level circular road
+  - [ ] Vehicle on a banked road
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P4: Work, Energy and Power
+
+**Work, Energy and Power**
+  - [ ] Work done by a constant force and a variable force
+  - [ ] Kinetic and potential energies
+  - [ ] Work-energy theorem
+  - [ ] Power
+
+**Conservation of Energy**
+  - [ ] The potential energy of a spring
+  - [ ] Conservation of mechanical energy
+  - [ ] Conservative and non-conservative forces
+  - [ ] Motion in a vertical circle
+
+**Collisions**
+  - [ ] Elastic collisions in one and two dimensions
+  - [ ] Inelastic collisions in one and two dimensions
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P5: Rotational Motion
+
+**Centre of Mass**
+  - [ ] Centre of mass of a two-particle system
+  - [ ] Centre of mass of a rigid body
+
+**Rotational Dynamics**
+  - [ ] Basic concepts of rotational motion
+  - [ ] Moment of a force
+  - [ ] Torque
+  - [ ] Angular momentum
+  - [ ] Conservation of angular momentum and its applications
+
+**Moment of Inertia**
+  - [ ] The moment of inertia
+  - [ ] The radius of gyration
+  - [ ] Values of moments of inertia for simple geometrical objects
+  - [ ] Parallel and perpendicular axes theorems and their applications
+
+**Rigid Bodies**
+  - [ ] Equilibrium of rigid bodies
+  - [ ] Rigid body rotation and equations of rotational motion
+  - [ ] Comparison of linear and rotational motions
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P6: Gravitation
+
+**Gravity**
+  - [ ] The universal law of gravitation
+  - [ ] Acceleration due to gravity and its variation with altitude and depth
+  - [ ] Kepler's laws of planetary motion
+
+**Potential**
+  - [ ] Gravitational potential energy
+  - [ ] Gravitational potential
+
+**Satellites**
+  - [ ] Escape velocity
+  - [ ] Motion of a satellite
+  - [ ] Orbital velocity
+  - [ ] Time period and energy of a satellite
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P7: Properties of Solids and Liquids
+
+**Elastic Behaviour**
+  - [ ] Elastic behaviour
+  - [ ] Stress-strain relationship
+  - [ ] Hooke's law
+  - [ ] Young's modulus, bulk modulus and modulus of rigidity
+
+**Fluid Mechanics**
+  - [ ] Pressure due to a fluid column
+  - [ ] Pascal's law and its applications
+  - [ ] Effect of gravity on fluid pressure
+  - [ ] Viscosity
+  - [ ] Stokes' law
+  - [ ] Terminal velocity
+  - [ ] Streamline and turbulent flow
+  - [ ] Critical velocity
+  - [ ] Bernoulli's principle and its applications
+
+**Surface Tension**
+  - [ ] Surface energy and surface tension
+  - [ ] Angle of contact
+  - [ ] Excess of pressure across a curved surface
+  - [ ] Applications of surface tension: drops, bubbles and capillary rise
+
+**Heat and Thermal Properties**
+  - [ ] Heat
+  - [ ] Temperature
+  - [ ] Thermal expansion
+  - [ ] Specific heat capacity
+  - [ ] Calorimetry
+  - [ ] Change of state
+  - [ ] Latent heat
+
+**Heat Transfer**
+  - [ ] Conduction
+  - [ ] Convection
+  - [ ] Radiation
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P8: Thermodynamics
+
+**Basics**
+  - [ ] Thermal equilibrium and the concept of temperature
+  - [ ] Zeroth law of thermodynamics
+  - [ ] Heat, work and internal energy
+
+**Laws of Thermodynamics**
+  - [ ] The first law of thermodynamics
+  - [ ] Isothermal and adiabatic processes
+  - [ ] The second law of thermodynamics
+  - [ ] Reversible and irreversible processes
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P9: Kinetic Theory of Gases
+
+**Perfect Gas**
+  - [ ] Equation of state of a perfect gas
+  - [ ] Work done on compressing a gas
+
+**Kinetic Theory**
+  - [ ] Kinetic theory of gases: assumptions
+  - [ ] The concept of pressure
+  - [ ] Kinetic interpretation of temperature
+  - [ ] RMS speed of gas molecules
+  - [ ] Degrees of freedom
+  - [ ] Law of equipartition of energy and applications to specific heat capacities of gases
+  - [ ] Mean free path
+  - [ ] Avogadro's number
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P10: Oscillations and Waves
+
+**Periodic Motion**
+  - [ ] Oscillations and periodic motion: time period, frequency
+  - [ ] Displacement as a function of time
+  - [ ] Periodic functions
+
+**Simple Harmonic Motion**
+  - [ ] Simple harmonic motion (S.H.M.) and its equation
+  - [ ] Phase
+  - [ ] Oscillations of a spring: restoring force and force constant
+  - [ ] Energy in S.H.M.: kinetic and potential energies
+  - [ ] Simple pendulum: derivation of expression for its time period
+
+**Waves**
+  - [ ] Wave motion
+  - [ ] Longitudinal and transverse waves
+  - [ ] Speed of the travelling wave
+  - [ ] Displacement relation for a progressive wave
+  - [ ] Principle of superposition of waves
+  - [ ] Reflection of waves
+  - [ ] Standing waves in strings and organ pipes
+  - [ ] Fundamental mode and harmonics
+  - [ ] Beats
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P11: Electrostatics
+
+**Charges and Coulomb's Law**
+  - [ ] Electric charges: conservation of charge
+  - [ ] Coulomb's law: forces between two point charges
+  - [ ] Forces between multiple charges
+  - [ ] Superposition principle and continuous charge distribution
+
+**Electric Field**
+  - [ ] Electric field due to a point charge
+  - [ ] Electric field lines
+  - [ ] Electric dipole
+  - [ ] Electric field due to a dipole
+  - [ ] Torque on a dipole in a uniform electric field
+
+**Gauss's Law**
+  - [ ] Electric flux
+  - [ ] Gauss's law
+  - [ ] Field due to an infinitely long uniformly charged straight wire
+  - [ ] Field due to a uniformly charged infinite plane sheet
+  - [ ] Field due to a uniformly charged thin spherical shell
+
+**Electric Potential**
+  - [ ] Electric potential and its calculation for a point charge
+  - [ ] Potential of an electric dipole
+  - [ ] Potential of a system of charges
+  - [ ] Potential difference
+  - [ ] Equipotential surfaces
+  - [ ] Electrical potential energy of a system of two point charges
+  - [ ] Electrical potential energy of an electric dipole in an electrostatic field
+
+**Conductors, Dielectrics and Capacitors**
+  - [ ] Conductors and insulators
+  - [ ] Dielectrics and electric polarization
+  - [ ] Capacitors and capacitance
+  - [ ] Combination of capacitors in series and parallel
+  - [ ] Capacitance of a parallel plate capacitor with and without dielectric medium between the plates
+  - [ ] Energy stored in a capacitor
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P12: Current Electricity
+
+**Electric Current and Resistance**
+  - [ ] Electric current
+  - [ ] Drift velocity
+  - [ ] Mobility and their relation with electric current
+  - [ ] Ohm's law
+  - [ ] Electrical resistance
+  - [ ] I-V characteristics of Ohmic and non-ohmic conductors
+  - [ ] Electrical energy and power
+  - [ ] Electrical resistivity and conductivity
+  - [ ] Series and parallel combinations of resistors
+  - [ ] Temperature dependence of resistance
+
+**Cells**
+  - [ ] Internal resistance
+  - [ ] Potential difference and emf of a cell
+  - [ ] A combination of cells in series and parallel
+
+**Circuits**
+  - [ ] Kirchhoff's laws and their applications
+  - [ ] Wheatstone bridge
+  - [ ] Metre Bridge
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P13: Magnetic Effects of Current and Magnetism
+
+**Magnetic Fields due to Currents**
+  - [ ] Biot-Savart law and its application to the current carrying circular loop
+  - [ ] Ampere's law
+  - [ ] Ampere's law application: infinitely long current carrying straight wire
+  - [ ] Ampere's law application: solenoid
+
+**Magnetic Forces**
+  - [ ] Force on a moving charge in uniform magnetic and electric fields
+  - [ ] Force on a current-carrying conductor in a uniform magnetic field
+  - [ ] The force between two parallel current carrying conductors – definition of ampere
+  - [ ] Torque experienced by a current loop in a uniform magnetic field
+  - [ ] Moving coil galvanometer and its sensitivity
+  - [ ] Conversion of galvanometer to ammeter and voltmeter
+
+**Magnetism**
+  - [ ] Current loop as a magnetic dipole and its magnetic dipole moment
+  - [ ] Bar magnet as an equivalent solenoid
+  - [ ] Magnetic field lines
+  - [ ] Magnetic field due to a magnetic dipole (bar magnet) along its axis and perpendicular to its axis
+  - [ ] Torque on a magnetic dipole in a uniform magnetic field
+  - [ ] Para-, dia- and ferromagnetic substances with examples
+  - [ ] The effect of temperature on magnetic properties
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P14: Electromagnetic Induction and Alternating Currents
+
+**Electromagnetic Induction**
+  - [ ] Faraday's law
+  - [ ] Induced emf and current
+  - [ ] Lenz's law
+  - [ ] Eddy currents
+  - [ ] Self and mutual inductance
+
+**Alternating Currents**
+  - [ ] Alternating currents
+  - [ ] Peak and RMS value of alternating current/voltage
+  - [ ] Reactance and impedance
+  - [ ] LCR series circuit
+  - [ ] Resonance
+  - [ ] Power in AC circuits
+  - [ ] Wattless current
+  - [ ] AC generator
+  - [ ] Transformer
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P15: Electromagnetic Waves
+
+**Electromagnetic Waves**
+  - [ ] Displacement current
+  - [ ] Electromagnetic waves and their characteristics
+  - [ ] Transverse nature of electromagnetic waves
+  - [ ] Electromagnetic spectrum (radio waves, microwaves, infrared, visible, ultraviolet, X-rays, Gamma rays)
+  - [ ] Applications of electromagnetic waves
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P16: Optics
+
+**Ray Optics**
+  - [ ] Reflection of light
+  - [ ] Spherical mirrors
+  - [ ] Mirror formula
+  - [ ] Refraction of light at plane and spherical surfaces
+  - [ ] Thin lens formula and lens maker formula
+  - [ ] Total internal reflection and its applications
+  - [ ] Magnification
+  - [ ] Power of a lens
+  - [ ] Combination of thin lenses in contact
+  - [ ] Refraction of light through a prism
+
+**Optical Instruments**
+  - [ ] Microscope and its magnifying power
+  - [ ] Astronomical telescope (reflecting and refracting) and its magnifying power
+
+**Wave Optics**
+  - [ ] Wavefront and Huygens' principle
+  - [ ] Laws of reflection and refraction using Huygens' principle
+
+**Interference**
+  - [ ] Young's double-slit experiment and expression for fringe width
+  - [ ] Coherent sources and sustained interference of light
+
+**Diffraction**
+  - [ ] Diffraction due to a single slit
+  - [ ] Width of central maximum
+
+**Polarization**
+  - [ ] Plane-polarized light
+  - [ ] Brewster's law
+  - [ ] Uses of plane-polarized light and Polaroid
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P17: Dual Nature of Matter and Radiation
+
+**Dual Nature of Radiation**
+  - [ ] Dual nature of radiation
+  - [ ] Photoelectric effect
+  - [ ] Hertz and Lenard's observations
+  - [ ] Einstein's photoelectric equation
+  - [ ] Particle nature of light
+
+**Matter Waves**
+  - [ ] Wave nature of particle
+  - [ ] De Broglie relation
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P18: Atoms and Nuclei
+
+**Atoms**
+  - [ ] Alpha-particle scattering experiment
+  - [ ] Rutherford's model of atom
+  - [ ] Bohr model
+  - [ ] Energy levels
+  - [ ] Hydrogen spectrum
+
+**Nuclei**
+  - [ ] Composition and size of nucleus
+  - [ ] Atomic masses
+  - [ ] Mass-energy relation
+  - [ ] Mass defect
+  - [ ] Binding energy per nucleon and its variation with mass number
+  - [ ] Nuclear fission
+  - [ ] Nuclear fusion
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P19: Electronic Devices
+
+**Semiconductors and Diodes**
+  - [ ] Semiconductors
+  - [ ] Semiconductor diode: I-V characteristics in forward and reverse bias
+  - [ ] Diode as a rectifier
+  - [ ] I-V characteristics of LED
+  - [ ] The photodiode
+  - [ ] Solar cell
+  - [ ] Zener diode
+  - [ ] Zener diode as a voltage regulator
+
+**Logic Gates**
+  - [ ] Logic gates (OR, AND, NOT, NAND and NOR)
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## P20: Experimental Skills
+
+**Familiarity with the basic approach and observations of the experiments and activities**
+  - [ ] 1. Vernier calipers – its use to measure the internal and external diameter and depth of a vessel
+  - [ ] 2. Screw gauge – its use to determine the thickness/diameter of thin sheet/wire
+  - [ ] 3. Simple pendulum – dissipation of energy by plotting a graph between the square of amplitude and time
+  - [ ] 4. Metre scale – the mass of a given object by the principle of moments
+  - [ ] 5. Young's modulus of elasticity of the material of a metallic wire
+  - [ ] 6. Surface tension of water by capillary rise and effect of detergents
+  - [ ] 7. Co-efficient of viscosity of a given viscous liquid by measuring the terminal velocity of a given spherical body
+  - [ ] 8. Speed of sound in air at room temperature using a resonance tube
+  - [ ] 9. Specific heat capacity of a given (i) solid and (ii) liquid by method of mixtures
+  - [ ] 10. The resistivity of the material of a given wire using a metre bridge
+  - [ ] 11. The resistance of a given wire using Ohm's law
+  - [ ] 12. Resistance and figure of merit of a galvanometer by half deflection method
+  - [ ] 13. The focal length of (i) Convex mirror (ii) Concave mirror and (iii) Convex lens, using the parallax method
+  - [ ] 14. The plot of the angle of deviation vs angle of incidence for a triangular prism
+  - [ ] 15. The refractive index of a glass slab using a travelling microscope
+  - [ ] 16. Characteristic curves of a p-n junction diode in forward and reverse bias
+  - [ ] 17. Characteristic curves of a Zener diode and finding reverse breakdown voltage
+  - [ ] 18. Identification of diode, LED, resistor, a capacitor from a mixed collection of such items
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+---
+
+# PAPER 1 – CHEMISTRY
+
+# PART A: PHYSICAL CHEMISTRY
+
+## C1: Some Basic Concepts in Chemistry
+
+**Matter and Atomic Theory**
+  - [ ] Matter and its nature
+  - [ ] Dalton's atomic theory
+  - [ ] Concept of atom, molecule, element and compound
+
+**Laws and Masses**
+  - [ ] Laws of chemical combination
+  - [ ] Atomic and molecular masses
+  - [ ] Mole concept
+  - [ ] Molar mass
+  - [ ] Percentage composition
+  - [ ] Empirical and molecular formulae
+
+**Stoichiometry**
+  - [ ] Chemical equations and stoichiometry
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C2: Atomic Structure
+
+**Radiation and Hydrogen Atom**
+  - [ ] Nature of electromagnetic radiation
+  - [ ] Photoelectric effect
+  - [ ] Spectrum of the hydrogen atom
+
+**Bohr Model**
+  - [ ] Bohr model of a hydrogen atom – its postulates
+  - [ ] Derivation of the relations for the energy of the electron and radii of the different orbits
+  - [ ] Limitations of Bohr's model
+
+**Quantum Mechanical Model**
+  - [ ] Dual nature of matter
+  - [ ] de Broglie's relationship
+  - [ ] Heisenberg uncertainty principle
+  - [ ] Elementary ideas of quantum mechanics
+  - [ ] The quantum mechanical model of the atom and its important features
+  - [ ] Concept of atomic orbitals as one-electron wave functions
+  - [ ] Variation of ψ and ψ² with r for 1s and 2s orbitals
+  - [ ] Various quantum numbers (principal, angular momentum and magnetic quantum numbers) and their significance
+  - [ ] Shapes of s, p and d orbitals
+  - [ ] Electron spin and spin quantum number
+
+**Electronic Configuration**
+  - [ ] Aufbau principle
+  - [ ] Pauli's exclusion principle
+  - [ ] Hund's rule
+  - [ ] Electronic configuration of elements
+  - [ ] Extra stability of half-filled and completely filled orbitals
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C3: Chemical Bonding and Molecular Structure
+
+**Basics**
+  - [ ] Kossel-Lewis approach to chemical bond formation
+  - [ ] The concept of ionic and covalent bonds
+
+**Ionic Bonding**
+  - [ ] Formation of ionic bonds
+  - [ ] Factors affecting the formation of ionic bonds
+  - [ ] Calculation of lattice enthalpy
+
+**Covalent Bonding**
+  - [ ] Concept of electronegativity
+  - [ ] Fajan's rule
+  - [ ] Dipole moment
+  - [ ] Valence Shell Electron Pair Repulsion (VSEPR) theory and shapes of simple molecules
+
+**Valence Bond Theory**
+  - [ ] Valence bond theory – its important features
+  - [ ] The concept of hybridization involving s, p and d orbitals
+  - [ ] Resonance
+
+**Molecular Orbital Theory**
+  - [ ] Molecular orbital theory – its important features
+  - [ ] LCAOs
+  - [ ] Types of molecular orbitals (bonding, antibonding)
+  - [ ] Sigma and pi-bonds
+  - [ ] Molecular orbital electronic configurations of homonuclear diatomic molecules
+  - [ ] The concept of bond order
+  - [ ] Bond length
+  - [ ] Bond energy
+
+**Other Bonding**
+  - [ ] Elementary idea of metallic bonding
+  - [ ] Hydrogen bonding and its applications
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C4: Chemical Thermodynamics
+
+**Fundamentals of Thermodynamics**
+  - [ ] System and surroundings
+  - [ ] Extensive and intensive properties
+  - [ ] State functions
+  - [ ] Entropy
+  - [ ] Types of processes
+
+**The First Law of Thermodynamics**
+  - [ ] Concept of work, heat, internal energy and enthalpy
+  - [ ] Heat capacity and molar heat capacity
+  - [ ] Hess's law of constant heat summation
+  - [ ] Enthalpies of bond dissociation, combustion, formation, atomization, sublimation, phase transition, hydration, ionization and solution
+
+**The Second Law of Thermodynamics**
+  - [ ] Spontaneity of processes
+  - [ ] ΔS of the universe and ΔG of the system as criteria for spontaneity
+  - [ ] ΔG° (Standard Gibbs energy change) and equilibrium constant
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C5: Solutions
+
+**Concentration of Solutions**
+  - [ ] Molality
+  - [ ] Molarity
+  - [ ] Mole fraction
+  - [ ] Percentage (by volume and mass both)
+
+**Vapour Pressure**
+  - [ ] The vapour pressure of solutions and Raoult's law
+  - [ ] Ideal and non-ideal solutions
+  - [ ] Vapour pressure – composition plots for ideal and non-ideal solutions
+
+**Colligative Properties of Dilute Solutions**
+  - [ ] Relative lowering of vapour pressure
+  - [ ] Depression of freezing point
+  - [ ] The elevation of boiling point
+  - [ ] Osmotic pressure
+  - [ ] Determination of molecular mass using colligative properties
+  - [ ] Abnormal value of molar mass
+  - [ ] van't Hoff factor and its significance
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C6: Equilibrium
+
+**Basics**
+  - [ ] Meaning of equilibrium
+  - [ ] The concept of dynamic equilibrium
+
+**Equilibria Involving Physical Processes**
+  - [ ] Solid-liquid, liquid-gas, gas-gas and solid-gas equilibria
+  - [ ] Henry's law
+  - [ ] General characteristics of equilibrium involving physical processes
+
+**Equilibrium Involving Chemical Processes**
+  - [ ] Law of chemical equilibrium
+  - [ ] Equilibrium constants (Kp and Kc) and their significance
+  - [ ] The significance of ΔG and ΔG° in chemical equilibrium
+  - [ ] Factors affecting equilibrium: concentration, pressure, temperature, the effect of catalyst
+  - [ ] Le Chatelier's principle
+
+**Ionic Equilibrium**
+  - [ ] Weak and strong electrolytes
+  - [ ] Ionization of electrolytes
+  - [ ] Various concepts of acids and bases (Arrhenius, Bronsted-Lowry and Lewis) and their ionization
+  - [ ] Acid-base equilibria (including multistage ionization) and ionization constants
+  - [ ] Ionization of water
+  - [ ] pH scale
+  - [ ] Common ion effect
+  - [ ] Hydrolysis of salts and pH of their solutions
+  - [ ] The solubility of sparingly soluble salts
+  - [ ] Solubility products
+  - [ ] Buffer solutions
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C7: Redox Reactions and Electrochemistry
+
+**Redox Reactions**
+  - [ ] Electronic concepts of oxidation and reduction
+  - [ ] Redox reactions
+  - [ ] Oxidation number
+  - [ ] Rules for assigning oxidation number
+  - [ ] Balancing of redox reactions
+
+**Conductance**
+  - [ ] Electrolytic and metallic conduction
+  - [ ] Conductance in electrolytic solutions
+  - [ ] Molar conductivities and their variation with concentration
+  - [ ] Kohlrausch's law and its applications
+
+**Electrochemical Cells**
+  - [ ] Electrolytic and Galvanic cells
+  - [ ] Different types of electrodes
+  - [ ] Electrode potentials including standard electrode potential
+  - [ ] Half-cell and cell reactions
+  - [ ] emf of a Galvanic cell and its measurement
+  - [ ] Nernst equation and its applications
+  - [ ] Relationship between cell potential and Gibbs' energy change
+  - [ ] Dry cell and lead accumulator
+  - [ ] Fuel cells
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C8: Chemical Kinetics
+
+**Rates of Reactions**
+  - [ ] Rate of a chemical reaction
+  - [ ] Factors affecting the rate of reactions: concentration, temperature, pressure and catalyst
+  - [ ] Elementary and complex reactions
+  - [ ] Order and molecularity of reactions
+  - [ ] Rate law
+  - [ ] Rate constant and its units
+  - [ ] Differential and integral forms of zero and first-order reactions, their characteristics and half-lives
+
+**Temperature and Theories**
+  - [ ] The effect of temperature on the rate of reactions
+  - [ ] Arrhenius theory
+  - [ ] Activation energy and its calculation
+  - [ ] Collision theory of bi-molecular gaseous reactions (no derivation)
+
+**Reaction Order Forms**
+  - [ ] Zero-order reactions: characteristics and half-life
+  - [ ] First-order reactions: characteristics and half-life
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+# PART B: INORGANIC CHEMISTRY
+
+## C9: Classification of Elements and Periodicity in Properties
+
+**Periodic Table**
+  - [ ] Modern periodic law and present form of the periodic table
+  - [ ] s, p, d and f block elements
+
+**Periodic Trends**
+  - [ ] Atomic and ionic radii
+  - [ ] Ionization enthalpy
+  - [ ] Electron gain enthalpy
+  - [ ] Valence
+  - [ ] Oxidation states
+  - [ ] Chemical reactivity
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C10: p-Block Elements
+
+**Group 13 to Group 18 Elements**
+  - [ ] General introduction
+  - [ ] Electronic configuration
+  - [ ] General trends in physical and chemical properties of elements across the periods and down the groups
+  - [ ] Unique behaviour of the first element in each group
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C11: d- and f-Block Elements
+
+**Transition Elements**
+  - [ ] General introduction
+  - [ ] Electronic configuration
+  - [ ] Occurrence and characteristics
+  - [ ] General trends in first-row transition elements: physical properties
+  - [ ] Ionization enthalpy
+  - [ ] Oxidation states
+  - [ ] Atomic radii
+  - [ ] Colour
+  - [ ] Catalytic behaviour
+  - [ ] Magnetic properties
+  - [ ] Complex formation
+  - [ ] Interstitial compounds
+  - [ ] Alloy formation
+  - [ ] Preparation, properties and uses of K2Cr2O7
+  - [ ] Preparation, properties and uses of KMnO4
+
+**Inner Transition Elements – Lanthanoids**
+  - [ ] Electronic configuration
+  - [ ] Oxidation states
+  - [ ] Lanthanoid contraction
+
+**Inner Transition Elements – Actinoids**
+  - [ ] Electronic configuration
+  - [ ] Oxidation states
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C12: Coordination Compounds
+
+**Basics**
+  - [ ] Introduction to coordination compounds
+  - [ ] Werner's theory
+  - [ ] Ligands
+  - [ ] Coordination number
+  - [ ] Denticity
+  - [ ] Chelation
+
+**Nomenclature and Isomerism**
+  - [ ] IUPAC nomenclature of mononuclear co-ordination compounds
+  - [ ] Isomerism
+
+**Bonding**
+  - [ ] Valence bond approach
+  - [ ] Basic ideas of Crystal field theory
+  - [ ] Colour and magnetic properties
+
+**Importance**
+  - [ ] Importance in qualitative analysis
+  - [ ] Importance in extraction of metals
+  - [ ] Importance in biological systems
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+# PART C: ORGANIC CHEMISTRY
+
+## C13: Purification and Characterisation of Organic Compounds
+
+**Purification – Principles and Applications**
+  - [ ] Crystallization
+  - [ ] Sublimation
+  - [ ] Distillation
+  - [ ] Differential extraction
+  - [ ] Chromatography
+
+**Qualitative Analysis**
+  - [ ] Detection of nitrogen
+  - [ ] Detection of sulphur
+  - [ ] Detection of phosphorus
+  - [ ] Detection of halogens
+
+**Quantitative Analysis (basic principles only)**
+  - [ ] Estimation of carbon
+  - [ ] Estimation of hydrogen
+  - [ ] Estimation of nitrogen
+  - [ ] Estimation of halogens
+  - [ ] Estimation of sulphur
+  - [ ] Estimation of phosphorus
+
+**Calculations**
+  - [ ] Calculations of empirical formulae and molecular formulae
+  - [ ] Numerical problems in organic quantitative analysis
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C14: Some Basic Principles of Organic Chemistry
+
+**Structure and Classification**
+  - [ ] Tetravalency of carbon
+  - [ ] Shapes of simple molecules – hybridization (s and p)
+  - [ ] Classification of organic compounds based on functional groups and those containing halogens, oxygen, nitrogen and sulphur
+  - [ ] Homologous series
+
+**Isomerism and Nomenclature**
+  - [ ] Structural isomerism
+  - [ ] Stereoisomerism
+  - [ ] Nomenclature (Trivial and IUPAC)
+
+**Covalent Bond Fission and Reactive Species**
+  - [ ] Homolytic fission
+  - [ ] Heterolytic fission
+  - [ ] Free radicals
+  - [ ] Carbocations
+  - [ ] Carbanions
+  - [ ] Stability of carbocations and free radicals
+  - [ ] Electrophiles and nucleophiles
+
+**Electronic Displacement in a Covalent Bond**
+  - [ ] Inductive effect
+  - [ ] Electromeric effect
+  - [ ] Resonance
+  - [ ] Hyperconjugation
+
+**Common Types of Organic Reactions**
+  - [ ] Substitution
+  - [ ] Addition
+  - [ ] Elimination
+  - [ ] Rearrangement
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C15: Hydrocarbons
+
+**General**
+  - [ ] Classification
+  - [ ] Isomerism
+  - [ ] IUPAC nomenclature
+  - [ ] General methods of preparation
+  - [ ] Properties and reactions
+
+**Alkanes**
+  - [ ] Conformations: Sawhorse and Newman projections (of ethane)
+  - [ ] Mechanism of halogenation of alkanes
+
+**Alkenes**
+  - [ ] Geometrical isomerism
+  - [ ] Mechanism of electrophilic addition
+  - [ ] Addition of hydrogen
+  - [ ] Addition of halogens
+  - [ ] Addition of water
+  - [ ] Addition of hydrogen halides (Markownikoff's and peroxide effect)
+  - [ ] Ozonolysis
+  - [ ] Polymerization
+
+**Alkynes**
+  - [ ] Acidic character
+  - [ ] Addition of hydrogen
+  - [ ] Addition of halogens
+  - [ ] Addition of water
+  - [ ] Addition of hydrogen halides
+  - [ ] Polymerization
+
+**Aromatic Hydrocarbons**
+  - [ ] Nomenclature
+  - [ ] Benzene – structure and aromaticity
+  - [ ] Mechanism of electrophilic substitution
+  - [ ] Halogenation
+  - [ ] Nitration
+  - [ ] Friedel-Craft's alkylation
+  - [ ] Friedel-Craft's acylation
+  - [ ] Directive influence of the functional group in mono-substituted benzene
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C16: Organic Compounds Containing Halogens
+
+**Halogen Compounds**
+  - [ ] General methods of preparation
+  - [ ] Properties and reactions
+  - [ ] Nature of C-X bond
+  - [ ] Mechanisms of substitution reactions
+
+**Uses and Environmental Effects**
+  - [ ] Uses and environmental effects of chloroform
+  - [ ] Uses and environmental effects of iodoform
+  - [ ] Uses and environmental effects of freons
+  - [ ] Uses and environmental effects of DDT
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C17: Organic Compounds Containing Oxygen
+
+**General**
+  - [ ] General methods of preparation, properties, reactions and uses
+
+**Alcohols**
+  - [ ] Identification of primary, secondary and tertiary alcohols
+  - [ ] Mechanism of dehydration
+
+**Phenols**
+  - [ ] Acidic nature
+  - [ ] Electrophilic substitution reactions
+  - [ ] Halogenation
+  - [ ] Nitration
+  - [ ] Sulphonation
+  - [ ] Reimer-Tiemann reaction
+
+**Ethers**
+  - [ ] Structure
+
+**Aldehydes and Ketones**
+  - [ ] Nature of carbonyl group
+  - [ ] Nucleophilic addition to >C=O group
+  - [ ] Relative reactivities of aldehydes and ketones
+  - [ ] Nucleophilic addition reactions (addition of HCN, NH3 and its derivatives)
+  - [ ] Grignard reagent
+  - [ ] Oxidation
+  - [ ] Reduction – Wolff-Kishner
+  - [ ] Reduction – Clemmensen
+  - [ ] The acidity of α-hydrogen
+  - [ ] Aldol condensation
+  - [ ] Cannizzaro reaction
+  - [ ] Haloform reaction
+  - [ ] Chemical tests to distinguish between aldehydes and ketones
+
+**Carboxylic Acids**
+  - [ ] Acidic strength and factors affecting it
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C18: Organic Compounds Containing Nitrogen
+
+**General**
+  - [ ] General methods of preparation, properties, reactions and uses
+
+**Amines**
+  - [ ] Nomenclature
+  - [ ] Classification
+  - [ ] Structure
+  - [ ] Basic character
+  - [ ] Identification of primary, secondary and tertiary amines and their basic character
+
+**Diazonium Salts**
+  - [ ] Importance in synthetic organic chemistry
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C19: Biomolecules
+
+**General**
+  - [ ] General introduction and importance of biomolecules
+
+**Carbohydrates**
+  - [ ] Classification
+  - [ ] Aldoses and ketoses
+  - [ ] Monosaccharides (glucose and fructose)
+  - [ ] Constituent monosaccharides of oligosaccharides (sucrose, lactose and maltose)
+
+**Proteins**
+  - [ ] Elementary idea of α-amino acids
+  - [ ] Peptide bond
+  - [ ] Polypeptides
+  - [ ] Proteins: primary, secondary, tertiary and quaternary structure (qualitative idea only)
+  - [ ] Denaturation of proteins
+  - [ ] Enzymes
+
+**Vitamins**
+  - [ ] Classification
+  - [ ] Functions
+
+**Nucleic Acids**
+  - [ ] Chemical constitution of DNA and RNA
+  - [ ] Biological functions of nucleic acids
+
+**Hormones**
+  - [ ] General introduction
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## C20: Principles Related to Practical Chemistry
+
+**Detection of Elements and Functional Groups**
+  - [ ] Detection of extra elements (nitrogen, sulphur, halogens) in organic compounds
+  - [ ] Hydroxyl group (alcoholic and phenolic)
+  - [ ] Carbonyl group (aldehyde and ketones)
+  - [ ] Carboxyl group
+  - [ ] Amino group
+
+**Chemistry Involved in Preparations**
+  - [ ] Inorganic: Mohr's salt
+  - [ ] Inorganic: Potash alum
+  - [ ] Organic: Acetanilide
+  - [ ] Organic: p-Nitro acetanilide
+  - [ ] Organic: Aniline yellow
+  - [ ] Organic: Iodoform
+
+**Titrimetric Exercises**
+  - [ ] Acids, bases and the use of indicators
+  - [ ] Oxalic acid vs KMnO4
+  - [ ] Mohr's salt vs KMnO4
+
+**Chemical Principles in Qualitative Salt Analysis**
+  - [ ] Cations: Pb2+, Cu2+, Al3+, Fe3+, Zn2+, Ni2+, Ca2+, Ba2+, Mg2+, NH4+
+  - [ ] Anions: CO3 2-, S2-, SO4 2-, NO3-, NO2-, Cl-, Br-, I- (insoluble salts excluded)
+
+**Chemical Principles Involved in the Following Experiments**
+  - [ ] 1. Enthalpy of solution of CuSO4
+  - [ ] 2. Enthalpy of neutralization of strong acid and strong base
+  - [ ] 3. Preparation of lyophilic and lyophobic sols
+  - [ ] 4. Kinetic study of the reaction of iodide ions with hydrogen peroxide at room temperature
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+---
+
+# PAPER 2A (B.Arch.) & PAPER 2B (B.Planning) – ADDITIONAL PARTS
+*(Part I Mathematics = M1 to M14 above)*
+
+## A1: Aptitude Test – Unit 1 (Papers 2A and 2B)
+
+**Awareness**
+  - [ ] Awareness of persons
+  - [ ] Awareness of buildings
+  - [ ] Awareness of materials
+  - [ ] Awareness of objects
+  - [ ] Awareness of textures related to architecture and build-environment
+
+**Visualization**
+  - [ ] Visualizing three-dimensional objects from two-dimensional drawings
+  - [ ] Visualizing different sides of three-dimensional objects
+
+**Reasoning**
+  - [ ] Analytical reasoning
+  - [ ] Mental ability (visual)
+  - [ ] Mental ability (numerical)
+  - [ ] Mental ability (verbal)
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## A2: Aptitude Test – Unit 2 (Papers 2A and 2B)
+
+**Three-Dimensional Perception**
+  - [ ] Understanding and appreciation of scale and proportions of objects
+  - [ ] Understanding and appreciation of building forms and elements
+  - [ ] Understanding and appreciation of colour texture harmony and contrast
+
+**Design and Drawing**
+  - [ ] Design and drawing of geometrical or abstract shapes and patterns in pencil
+
+**Transformation of Forms (2D and 3D)**
+  - [ ] Union
+  - [ ] Subtraction
+  - [ ] Rotation
+  - [ ] Development of surfaces and volumes
+
+**Plans and Compositions**
+  - [ ] Generation of plans, elevations and 3D views of objects
+  - [ ] Creating two-dimensional and three-dimensional compositions using given shapes and forms
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## D1: Drawing Test (Paper 2A – B.Arch.)
+
+**Sketching of Scenes and Activities from Memory**
+  - [ ] Urbanscape (public space, market, festivals, street scenes, monuments, recreational spaces, etc.)
+  - [ ] Landscape (riverfronts, jungle, gardens, trees, plants, etc.)
+  - [ ] Rural life
+
+**Exam Format and Materials**
+  - [ ] To be conducted on a drawing sheet
+  - [ ] Bring pencils, own geometry box set, erasers, colour pencils and crayons
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## PL1: Planning – General Awareness (Paper 2B – B.Planning)
+
+**General Awareness**
+  - [ ] General knowledge questions
+  - [ ] Knowledge about prominent cities
+  - [ ] Development issues
+  - [ ] Government programs
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## PL2: Planning – Social Sciences (Paper 2B – B.Planning)
+
+**History and Nationalism**
+  - [ ] The idea of nationalism
+  - [ ] Nationalism in India
+  - [ ] Pre-modern world
+  - [ ] 19th-century global economy
+  - [ ] Colonialism and colonial cities
+  - [ ] Industrialization
+
+**Resources and Development**
+  - [ ] Resources and development
+  - [ ] Types of resources
+  - [ ] Agriculture
+  - [ ] Water
+  - [ ] Mineral resources
+  - [ ] Industries
+  - [ ] National economy
+  - [ ] Human settlements
+
+**Civics**
+  - [ ] Power-sharing
+  - [ ] Federalism
+  - [ ] Political parties
+  - [ ] Democracy
+  - [ ] The constitution of India
+
+**Economics**
+  - [ ] Economic development – economic sectors
+  - [ ] Globalization
+  - [ ] The concept of development
+  - [ ] Poverty
+
+**Population and Society**
+  - [ ] Population structure
+  - [ ] Social exclusion and inequality
+  - [ ] Urbanization
+  - [ ] Rural development
+  - [ ] Colonial cities
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
+
+## PL3: Planning – Thinking Skills (Paper 2B – B.Planning)
+
+**Thinking Skills**
+  - [ ] Comprehension (unseen passage)
+  - [ ] Map reading skills: scale, distance, direction, area etc.
+  - [ ] Critical reasoning
+  - [ ] Understanding of charts, graphs and tables
+  - [ ] Basic concepts of statistics and quantitative reasoning
+
+- [ ] Practice Questions / Past Papers
+- [ ] Unit Revision
