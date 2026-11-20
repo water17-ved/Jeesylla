@@ -1,8 +1,0 @@
-{
-  "name": "Remix PCM Study Checklist",
-  "description": "Minimalist Sandstone Beige and Sage Olive mobile study checklist for Physics, Chemistry, and Maths.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
